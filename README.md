@@ -81,8 +81,8 @@ Data stored in JSON file and uploaded to S3.
     "Spot 15": "Car with license plate ABC0016"
 }
 ```
-9. Bucket data screenshot
-    ```
-    <img width="1402" alt="Screenshot 2023-09-28 at 11 09 12 PM" src="https://github.com/Mohd-Saddam/car_parking/assets/50014573/50654784-9595-4f40-9b1d-f41e06ef41f8">
+9. Bucket data screenshot:
+    
+   
+<img width="1402" alt="Screenshot 2023-09-28 at 11 09 12 PM" src="https://github.com/Mohd-Saddam/car_parking/assets/50014573/0c4173dc-1ef0-4712-8f88-dcf6c825cb7d">
 
-    ```
